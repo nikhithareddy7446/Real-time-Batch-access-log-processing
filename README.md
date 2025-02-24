@@ -1,15 +1,6 @@
-# Name: Nikhitha Guntaka
 
-# Course: SENG 691 Special Topics in
 
-# Software Eng
-ineering
-
-# Final Project
-
-# Real-time & batch access log
-
-# processing
+# Real-time & batch access log processing
 
 
 ## TableofContents:.......................................................................................................................
@@ -48,10 +39,6 @@ ineering
 - References:................................................................................................................................
 
 
-## ProjectTeam................................................................................................................................
-
-Workedalone,NoTeammates.
-AllaspectsoftheprojectarecontributedbyNikhithaGuntaka.
 
 ### Partsoftheproject...................................................................................................................
 
