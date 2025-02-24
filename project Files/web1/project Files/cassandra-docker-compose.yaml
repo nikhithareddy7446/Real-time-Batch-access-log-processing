@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  cassandra:
+    image: cassandra:latest
+    container_name: cassandra
+    ports:
+      - "9042:9042" # Expose Cassandra Query Language (CQL) port
+    environment:
+      - CASSANDRA_CLUSTER_NAME=MyCluster
+      - CASSANDRA_NUM_TOKENS=256
+      - CASSANDRA_START_RPC=true
+    volumes:
+      - cassandra_data:/var/lib/cassandra  # Persistent storage for Cassandra data
+    networks:
+      - cassandra_network
+
+networks:
+  cassandra_network:
+    driver: bridge
+
+volumes:
+  cassandra_data:
