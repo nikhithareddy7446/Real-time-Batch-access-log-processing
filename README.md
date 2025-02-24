@@ -1,8 +1,3 @@
-Name: Nikhitha Guntaka
-
-Course: SENG 691 Special Topics in Software Engineering
-
-Final Project
 
 Real-time & batch access log processing
 
