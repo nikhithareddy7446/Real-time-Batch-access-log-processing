@@ -44,8 +44,6 @@
 
 ```
 1 configuringNginxWebservers(3)
-```
-```
 2 ConfiguringtheNginxLoadbalancer
 3 CollectinglogsfromNginxinJSONFormat
 4 ConfiguringKafkaandZookeper
