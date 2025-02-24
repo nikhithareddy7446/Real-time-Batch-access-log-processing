@@ -68,11 +68,7 @@ The batch [program that processes the table LOG and produces the N most visited 
 
 [**References:**](#_wd5sr4xd1so4) **12**
 
-# Project Team
 
-Worked alone, No Teammates.
-
-All aspects of the project are contributed by Nikhitha Guntaka.
 
 ## Parts of the project
 
@@ -113,7 +109,7 @@ The project involves designing and implementing a scalable data pipeline for pro
 
 # Project Design
 
-https://github.com/nikhithareddy7446/SENG-691-Final-Project/blob/cdf682c332373b0f90194de6b1cc79bd27d7f59b/Project%20Design.jpg
+![image alt](https://github.com/nikhithareddy7446/SENG-691-Final-Project/blob/cdf682c332373b0f90194de6b1cc79bd27d7f59b/Project%20Design.jpg?raw=true)
 
 # Project Implementation
 
