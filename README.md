@@ -113,6 +113,8 @@ The project involves designing and implementing a scalable data pipeline for pro
 
 # Project Design
 
+https://github.com/nikhithareddy7446/SENG-691-Final-Project/blob/cdf682c332373b0f90194de6b1cc79bd27d7f59b/Project%20Design.jpg
+
 # Project Implementation
 
 This implementation is broken down into specific components, below is the step-by-step implementation.
